@@ -159,4 +159,4 @@ Shareware Doom is distributed under the [Doom WAD Shareware License](wads/doom-w
 
 ## Mocha Doom in action
 
-[![Mocha Doom](mochadoom.png)](https://www.youtube.com/watch?v=ioTNbjzY28Q)
+[![Mocha Doom](mochadoom.png)](mochadoom.mp4)
