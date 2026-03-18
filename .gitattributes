@@ -1,6 +1,3 @@
-DMUtils/* linguist-vendored=true
-demos/* linguist-vendored=true
-pwads/* linguist-vendored=true
 wads/* linguist-vendored=true
 
 *.png binary
