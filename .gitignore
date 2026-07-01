@@ -39,6 +39,8 @@ out/
 *.nar
 *.ear
 *.zip
+!resources/dooms_19.zip
+!resources/doom-source.zip
 *.tar.gz
 *.rar
 
